@@ -6,3 +6,5 @@ resilio/sync
 doocs/md:latest
 guyskk/rssant:latest
 apache/answer:latest
+library/alpine:latest
+library/golang:1.19-alpine
