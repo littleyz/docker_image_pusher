@@ -9,3 +9,4 @@ apache/answer:latest
 library/alpine:latest
 library/golang:1.19-alpine
 snowdreamtech/frpc:0.59.0
+imzcc/openresty:1.21.4.1-7-alpine
