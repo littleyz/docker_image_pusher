@@ -13,3 +13,4 @@ imzcc/openresty:1.21.4.1-7-alpine
 litespeedtech/openlitespeed:1.8.1-lsphp81
 louislam/uptime-kuma:1.23.13
 cuigh/swirl
+ecat/docker-pi-dashboard
