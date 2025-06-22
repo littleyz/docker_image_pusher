@@ -1,5 +1,5 @@
 imaegoo/twikoo
-xhofe/alist:latest
+xhofe/alist:v3.43.0
 neosmemo/memos:0.21.0
 neosmemo/memos
 resilio/sync
