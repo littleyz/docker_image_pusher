@@ -1,4 +1,4 @@
-imaegoo/twikoo
+imaegoo/twikoo:1.6.44
 xhofe/alist:v3.43.0
 neosmemo/memos:0.21.0
 neosmemo/memos
