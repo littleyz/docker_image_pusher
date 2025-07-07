@@ -7,4 +7,4 @@ doocs/md:latest
 guyskk/rssant:latest
 apache/answer:latest
 louislam/uptime-kuma:beta
-cuigh/swirl
+docker.umami.is/umami-software/umami:postgresql-latest
